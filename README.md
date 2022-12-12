@@ -20,6 +20,9 @@ I can then stick this in the sample csv and run batch mode in xVaSynth.
 - Can print out to CSV in the terminal
 - Can demo to show list all voices and their game
 
+## Limitations
+- Windows only - I can only get the xVaSynth app to run on Windows. So I only wrote the Python app for Windows. Should be easy to convert to Linux if needed (also, if you can run xVaSynth on Linux, PLEASE tell me how <3)
+
 ## 🛠️ Installation Steps - development
 
 1) Clone the repo / download the speechsamples.py
